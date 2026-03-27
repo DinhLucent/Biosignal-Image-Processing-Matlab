@@ -1,14 +1,18 @@
-# Biosignal-Image-Processing-Matlab
+# Biosignal Matlab Processing Image
 
-A specialized collection of MATLAB scripts for processing and analyzing biosignals and medical images. This project demonstrates techniques for noise reduction, feature extraction, and signal visualization.
+Biosignal and medical image processing implementations using MATLAB.
 
-## ┬┐ Features
-- **Signal Filtering**: Implementation of low-pass, high-pass, and band-pass filters for ECG/EEG.
-- **Image Enhancement**: Algorithms for improving contrast and clarity in medical scans.
-- **Automated Extraction**: Scripts for quantifying signal properties.
+## Features
+- {Feature Description}
+- Detailed project mapping
+- Standardized branding
 
-## ┬┐ Project Structure
-- `src/`: Primary `.m` MATLAB script files.
+## Tech Stack
+- **Primary**: Matlab
+- **Domain**: Biosignal
+
+## License
+MIT License — see [LICENSE](LICENSE)
 
 ---
-*Created by DinhLucent - 2022 (Updated 2026)*
+Built by [DinhLucent](https://github.com/DinhLucent)
